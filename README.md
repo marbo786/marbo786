@@ -1,4 +1,4 @@
-<!-- HEADER BANNER -->
+<!-- HEADER -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Mohsin%20Saeed&fontSize=35&fontColor=ffffff)
 
 # Hi, I'm Mohsin Saeed 👋
@@ -11,39 +11,49 @@
 
 ## 🌍 About Me
 
-Second-year AI student at GIKI transitioning into third year, focused on building **real-world production AI systems**.
+AI student at GIKI focused on building **production-grade AI systems** and scalable ML pipelines.
 
-I work across:
+I work in:
 - Machine Learning & Deep Learning
 - Natural Language Processing
 - MLOps & Deployment Systems
 
-I enjoy turning datasets into scalable intelligent systems that solve real problems.
+I enjoy turning data into intelligent, deployable systems.
 
 ---
 
 ## 🚀 Experience
 
-### 🌫️ AirSense — Applied AI Intelligence System
+### 🌫️ AirSense — Applied AI System
 - Processed **420K+ records** with 40+ engineered features  
 - Built full **end-to-end MLOps pipeline**
 - Achieved:
   - **86.6% accuracy (AQI classification)**
   - **RMSE 13.15 (PM2.5 regression)**
-- Developed ML models for regression + classification
-- Built **FastAPI backend** for real-time inference
-- Orchestrated pipelines using **Prefect**
-- Experiment tracking with **MLflow**
-- Containerized using **Docker Compose**
-- Implemented CI/CD for automation
+- Built ML models for regression + classification
+- FastAPI backend for real-time inference
+- Prefect orchestration for pipelines
+- MLflow experiment tracking
+- Dockerized system with CI/CD automation
 
 ---
 
-### 🧠 Debate AI — Netronix Society Hackathon
-- Built NLP system for semantic debate understanding
-- Generated structured **pro & con arguments automatically**
-- Extracted context from debate topics using ML techniques
-- Designed for real-time analytical assistance
+### 🧠 Debate AI — Netronix Hackathon Project
+- NLP system for debate topic understanding
+- Automated structured pro/con argument generation
+- Semantic analysis using ML techniques
+- Designed for real-time analytical insights
+
+---
+
+## 🧠 Featured Projects (PIN THESE REPOS)
+
+👉 AirSense (Production AI + MLOps System)  
+👉 PaperPal GPT (LLM / NLP System)  
+👉 Debate AI (NLP Hackathon Project)  
+👉 Sports Analytics Dashboard (ML Regression System)  
+👉 ML Toolkit (Reusable ML Pipelines)  
+👉 C++ / Systems Project (CS Foundations)
 
 ---
 
@@ -58,7 +68,7 @@ I enjoy turning datasets into scalable intelligent systems that solve real probl
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-### MLOps & Tools
+### MLOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
 ![Prefect](https://img.shields.io/badge/Prefect-000000?style=for-the-badge)
@@ -79,18 +89,18 @@ I enjoy turning datasets into scalable intelligent systems that solve real probl
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marbo786&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marbo786&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marbo786&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marbo786&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🔥 Current Focus
 
-- Building production-grade AI systems  
-- LLM-based applications  
-- MLOps pipelines at scale  
-- Deploying real-world ML services  
+- Building LLM-based applications  
+- Scaling ML systems into production  
+- Improving MLOps pipelines (Prefect + MLflow)  
+- Designing reusable AI architectures  
 
 ---
 
