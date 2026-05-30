@@ -1,60 +1,76 @@
-# Mohsin Saeed
+<!-- HEADER BANNER -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Mohsin%20Saeed&fontSize=35&fontColor=ffffff)
+
+# Hi, I'm Mohsin Saeed 👋
 
 ### Aspiring AI Engineer | Machine Learning | NLP | MLOps
 
-Pakistan • AI Engineer in training
-
-[LinkedIn](https://linkedin.com/in/marbo123) • [GitHub](https://github.com/marbo786) • Email: marboo786@gmail.com
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=AI+Engineer+in+Training;Machine+Learning+%7C+NLP+%7C+MLOps;Building+Scalable+AI+Systems)
 
 ---
 
-## 🚀 About Me
+## 🌍 About Me
 
-Second-year student at GIKI transitioning into third year, focused on building real-world AI systems.  
-I specialize in machine learning, NLP, and end-to-end MLOps pipelines with production deployment experience.
+Second-year AI student at GIKI transitioning into third year, focused on building **real-world production AI systems**.
 
-I enjoy turning raw data into scalable intelligent systems.
+I work across:
+- Machine Learning & Deep Learning
+- Natural Language Processing
+- MLOps & Deployment Systems
+
+I enjoy turning datasets into scalable intelligent systems that solve real problems.
 
 ---
 
-## 🧠 Experience
+## 🚀 Experience
 
-### 🌍 AirSense — Applied AI System
-- Built an air quality intelligence system processing **420K+ records**
-- Engineered **40+ features** in a full MLOps pipeline
+### 🌫️ AirSense — Applied AI Intelligence System
+- Processed **420K+ records** with 40+ engineered features  
+- Built full **end-to-end MLOps pipeline**
 - Achieved:
-  - **86.6% accuracy** (AQI classification)
-  - **RMSE 13.15** (PM2.5 regression)
-- Built ML models and compared performance across pipelines
-- Developed **FastAPI backend** for real-time model serving
-- Orchestrated workflows using **Prefect**
-- Used **MLflow** for experiment tracking
-- Containerized system with **Docker Compose**
-- Implemented CI/CD for automated deployment
+  - **86.6% accuracy (AQI classification)**
+  - **RMSE 13.15 (PM2.5 regression)**
+- Developed ML models for regression + classification
+- Built **FastAPI backend** for real-time inference
+- Orchestrated pipelines using **Prefect**
+- Experiment tracking with **MLflow**
+- Containerized using **Docker Compose**
+- Implemented CI/CD for automation
 
 ---
 
-### 🧩 Debate AI — Hackathon Project (Netronix Society, GIKI)
-- Built NLP system for semantic debate analysis
-- Automated generation of structured pro/con arguments
-- Applied ML-based text understanding for topic analysis
-- Designed for real-time debate assistance in hackathon setting
+### 🧠 Debate AI — Netronix Society Hackathon
+- Built NLP system for semantic debate understanding
+- Generated structured **pro & con arguments automatically**
+- Extracted context from debate topics using ML techniques
+- Designed for real-time analytical assistance
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, C++  
-**ML / AI:** TensorFlow, PyTorch, Scikit-learn  
-**MLOps:** MLflow, Prefect, Docker  
-**Backend:** FastAPI  
-**Core Areas:** Machine Learning, NLP, System Design
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### MLOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
+![Prefect](https://img.shields.io/badge/Prefect-000000?style=for-the-badge)
+
+### Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
 ## 📜 Certifications
 
-- AI Fluency: Framework & Foundations — Anthropic  
+- AI Fluency — Anthropic  
 - IBM AI Engineering — Coursera  
 - Machine Learning with Python — Coursera  
 - Generative AI Engineering with Transformers & LLMs — Coursera  
@@ -63,23 +79,30 @@ I enjoy turning raw data into scalable intelligent systems.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marbo786&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marbo786&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marbo786)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marbo786&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 Current Focus
 
-- Scaling ML systems into production
-- LLM fine-tuning and applications
-- Building end-to-end AI pipelines
-- Improving MLOps workflows
+- Building production-grade AI systems  
+- LLM-based applications  
+- MLOps pipelines at scale  
+- Deploying real-world ML services  
 
 ---
 
-## 📫 Contact
+## 🌐 Connect With Me
 
-- Email: **marboo786@gmail.com**
-- LinkedIn: https://linkedin.com/in/marbo123
-- GitHub: https://github.com/marbo786
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohsin%20Saeed-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marbo123)
+
+[![GitHub](https://img.shields.io/badge/GitHub-marbo786-black?style=for-the-badge&logo=github)](https://github.com/marbo786)
+
+[![Email](https://img.shields.io/badge/Email-contact-red?style=for-the-badge&logo=gmail)](mailto:marboo786@gmail.com)
+
+---
+
+<!-- FOOTER -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer)
