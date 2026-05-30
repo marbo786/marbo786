@@ -46,17 +46,6 @@ I enjoy turning data into intelligent, deployable systems.
 
 ---
 
-## 🧠 Featured Projects (PIN THESE REPOS)
-
-👉 AirSense (Production AI + MLOps System)  
-👉 PaperPal GPT (LLM / NLP System)  
-👉 Debate AI (NLP Hackathon Project)  
-👉 Sports Analytics Dashboard (ML Regression System)  
-👉 ML Toolkit (Reusable ML Pipelines)  
-👉 C++ / Systems Project (CS Foundations)
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
