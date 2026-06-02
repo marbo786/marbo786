@@ -76,13 +76,6 @@ I enjoy turning data into intelligent, deployable systems.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marbo786&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marbo786&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 🔥 Current Focus
 
